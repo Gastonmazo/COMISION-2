@@ -1,0 +1,198 @@
+03:01:12	Ángel López De León:	sí
+03:01:17	Joaquin Fernandez:	si se escucha bien
+03:01:44	Eliana Cristaldo:	hola!!
+03:01:46	Eduardo Aguilar:	buenass
+03:02:53	Julian Corbo:	genio!
+03:03:29	jorgeapaza:	listo profe
+03:03:30	lucas valdez:	tremendo el acento
+03:03:58	Juan Pablo Schuk:	hola profe buenos dias
+03:04:00	Juan Pablo Schuk:	consulto profe
+03:04:09	Juan Pablo Schuk:	hasta el momento no tuvimos la clase de repaso
+03:04:10	Alexis Graff:	Bue ndia
+03:04:12	Santiago Morera:	yo si en el desafío entregable tengo una duda en la declaración de los argumentos de las funciones
+03:04:36	Alexis Graff:	Yo en cualquier momento
+03:04:47	David Niz:	por la mañana
+03:04:49	jorgeapaza:	donde estudio programación, profe
+03:04:51	Agustin Almonacid:	Buenisimo!
+03:04:53	Maxi Pereyra:	Mejor a la noche
+03:04:54	marcelo fabian basualdo:	por la mañana
+03:04:54	Juan Pablo Schuk:	buenismo
+03:05:40	Juan Pablo Schuk:	claro
+03:06:28	Tomas mazzitelli:	Como están los sueldos de Programacion allá en colombia?
+03:06:40	Juan Pablo Schuk:	frustracion
+03:07:03	Ángel López De León:	superar la frustración!! resiliencia!
+03:07:04	lucas valdez:	prueba y error hasta que salga
+03:07:30	Juan Pablo Schuk:	buen speech profe!
+03:07:50	jorgeapaza:	buenísimo profe
+03:08:00	Julian Corbo:	excelente!!
+03:09:04	jorgeapaza:	es clave el ingles en la programacion
+03:09:25	Valentín Zanardo Malvicino:	y encima que los países del primer mundo tienen mucho más capital para desarrollar programadores
+03:09:31	Juan Pablo Schuk:	sale ese golf gti a los 6 meses de laburoo?
+03:09:33	Juan Pablo Schuk:	ahhh
+03:09:57	David Niz:	JAJAJ
+03:10:34	David Niz:	debe estar salado el gti
+03:10:45	Juan Pablo Schuk:	8kk en argf
+03:10:45	Juan Pablo Schuk:	arg
+03:11:01	Valentín Zanardo Malvicino:	si
+03:11:03	Axel Alvarez:	sisi
+03:11:04	Santiago Morera:	si
+03:11:14	Juliana Martinet:	sii
+03:15:34	jorgeapaza:	magui
+03:16:26	Carolina Vanesa Lemes Quispe:	https://github.com/andresf2448/Coder-37460
+03:17:56	Christian Bernal:	6
+03:17:56	Joaquin Fernandez:	6
+03:17:58	marcelo fabian basualdo:	6
+03:17:58	jorgeapaza:	6
+03:18:55	jorgeapaza:	si
+03:19:34	Santiago Morera:	no
+03:19:38	Valentín Zanardo Malvicino:	nop
+03:19:38	Santiago Morera:	code runer no
+03:19:41	Agustin Almonacid:	nodejs si
+03:19:42	jorgeapaza:	nop
+03:19:45	Santiago Morera:	node si
+03:20:01	jorgeapaza:	ok
+03:20:05	Christian Bernal:	node si
+03:20:07	jorgeapaza:	si
+03:20:08	Santiago Morera:	node si
+03:20:12	Eduardo Aguilar:	sii
+03:21:00	Agustin Almonacid:	buenisimo !
+03:21:07	Agustin Almonacid:	los ejemplos no los borres, comentalos
+03:21:21	Santiago Morera:	instalado
+03:21:41	Christian Bernal:	si, también tengo el cl code runner
+03:24:02	Agustin Almonacid:	son casilleros digamos
+03:25:32	marcelo fabian basualdo:	6
+03:25:33	Thomas Viceconte:	6
+03:25:33	Constanza Oriana:	6
+03:25:34	Joaquin Fernandez:	6
+03:26:28	Juan Pablo Schuk:	corchete
+03:27:35	jorgeapaza:	arreglo2 seria camila
+03:27:52	Joaquin Fernandez:	en la 1
+03:28:10	jorgeapaza:	a 1
+03:31:56	Juan Pablo Schuk:	1
+03:32:38	David Niz:	si
+03:32:41	Christian Bernal:	si sr!
+03:32:43	jorgeapaza:	si
+03:34:16	David Niz:	como queda la salida de ese codigo?
+03:34:41	Juan Pablo Schuk:	como se descomenta un bloque de código?
+03:34:48	David Niz:	aah bien gracias!
+03:35:29	Valentín Zanardo Malvicino:	si tienen mouse con botones los pueden bindear ahí mediante los atajos
+03:35:32	Eliana Cristaldo:	👏🏻👏🏻👏🏻
+03:35:39	Alexis Graff:	Depende de su editor de codigos chicos. Si lo googlean aparece en 5 segundos
+03:35:47	jorgeapaza:	ctrl+k+c es otro
+03:35:48	Agustin Almonacid:	GRACIAS
+03:35:54	lucas valdez:	buenardo lo del mouse
+03:35:59	Agustin Almonacid:	ALt shift A
+03:36:12	Valentín Zanardo Malvicino:	sisi es épico yo comento desde ahí y es re comodo
+03:36:20	Maxi Pereyra:	*todos yendo a comprar mouse con botones*
+03:37:02	Valentín Zanardo Malvicino:	igual el mouse tiene que tener un software que te deje cambiarlo, yo tengo el g203 y se puede
+03:37:27	Agustin Almonacid:	yo tengo mouse con botones como se hace jaja
+03:37:30	Juan Pablo Schuk:	buenisimo
+03:37:32	Agustin Almonacid:	tengo g403
+03:38:23	lucas valdez:	puede recordar lo que hacia el .length
+03:39:04	Valentín Zanardo Malvicino:	vas al software de Logitech, después entras al mouse, vas a asignaciones y creas un macro de Alt + Shift + A. Después mandas el macro a la tecla de mouse que quieras
+03:40:35	Juan Pablo Schuk:	principio
+03:41:21	Juan Pablo Schuk:	hay glosarios medio prederminados para los nombres de las const y funciones? o cada uno inventa el que le guste?, digo puede ser confuso entender el nombre de los codigos de otros progromadores
+03:46:05	Agustin Almonacid:	me saca el 2 y el 3
+03:46:13	Agustin Almonacid:	el 1 y 2
+03:47:00	Juan Pablo Schuk:	"todo estalla" jajajajaja
+03:49:00	Juan Pablo Schuk:	ahi  esta multiplicando esos valores
+03:49:09	Juan Pablo Schuk:	ah buenismo
+03:49:43	Valentín Zanardo Malvicino:	nop
+03:49:49	Juan Pablo Schuk:	buenismo
+03:49:55	jorgeapaza:	bien
+03:53:16	jorgeapaza:	el poder de la programacion
+03:53:29	Agustin Almonacid:	si o si sale con backtics los nombres?
+03:53:55	Agustin Almonacid:	Claro
+03:54:04	Agustin Almonacid:	pero en la consola
+03:54:05	Valentín Zanardo Malvicino:	alguien sabe como poner un salto de línea con backtics?
+03:54:14	Agustin Almonacid:	ah bien !
+03:55:13	Juan Pablo Schuk:	profe puede comentar después si quiere, lo que ahce cada uno asi como comento con el pop
+03:56:17	Juan Pablo Schuk:	gracias!
+04:01:08	Juan Pablo Schuk:	claro, muchas cosas creo cuando trabajas y lideas con esos problemas también vas aprendiendo
+04:02:20	Valentín Zanardo Malvicino:	claro y después podes buscar la ubicación por ejemplo
+04:04:34	Valentín Zanardo Malvicino:	podemos agregar nombres al array con el prompt??
+04:05:18	Valentín Zanardo Malvicino:	sisi
+04:05:20	Valentín Zanardo Malvicino:	gracias!
+04:08:38	Agustin Almonacid:	hermoso el resumen
+04:09:41	Julian Corbo:	okey!
+04:09:43	Ángel López De León:	perfecto
+04:09:45	jorgeapaza:	listo profe
+04:09:55	lucas valdez:	vamo por el segundo termo
+04:10:09	marcelo fabian basualdo:	los tutores son los mismos, o usted trajo su equipo
+04:11:14	[Tutor]Marco Serlik:	Somos los mismos tutores, Marcelo.
+04:12:56	Agustin Almonacid:	pone para compartir vale
+04:13:01	Agustin Almonacid:	se ve solo el código
+04:13:18	Agustin Almonacid:	si
+04:13:23	David Niz:	no tendria que ir despues del primer break y no del ultimo?
+04:14:25	Agustin Almonacid:	buenardo
+04:14:30	Agustin Almonacid:	esa calculadora
+04:14:33	Juan Pablo Schuk:	que bueno esta
+04:14:35	Juan Pablo Schuk:	eso que hiciste
+04:14:44	Agustin Almonacid:	comparti ese código valentin!! jajaj
+04:14:50	Agustin Almonacid:	asi lo vemos
+04:16:52	David Niz:	excelente profe
+04:17:18	Juan Pablo Schuk:	claro
+04:17:29	Joaquin Fernandez:	profe a mi me esta pasando que me cuesta comprender la consigna
+04:17:31	jorgeapaza:	muy cierto lo que dice profe
+04:17:35	Juan Pablo Schuk:	hay que dedicarle tiempo también si miran lo de valentin no hay nada que no hayamso dado
+04:17:37	Joaquin Fernandez:	y no se que aplicar para resolverla
+04:17:40	Juan Pablo Schuk:	le habrá tomado tiempo hacer eso
+04:17:44	Juan Pablo Schuk:	es cuestión de sentarse
+04:17:48	jorgeapaza:	buenisimo lo que dice
+04:18:31	Alexis Graff:	es para ingresar tu nombre
+04:18:33	David Niz:	pide nomnres al usuario
+04:18:34	Alexis Graff:	y acepta hasta 5 nombres
+04:18:38	Alexis Graff:	en la lista
+04:18:39	David Niz:	5 nomnbres
+04:18:50	jorgeapaza:	como una lista
+04:19:57	lucas valdez:	como funciona length???
+04:20:44	lucas valdez:	yayaya , gracias
+04:22:06	jorgeapaza:	buenisimo
+04:23:21	Joaquin Fernandez:	con algo asi se podría hacer un tipo de inscripción para turnos medicos?
+04:24:16	David Niz:	elimina nombres?
+04:24:16	Lucas Jähnel:	Ingresa un nombre para eliminar
+04:24:21	lucas valdez:	elimina los nombres de la lista ?
+04:24:27	Santiago Morera:	busca un nombre en el array y si lo encuentra lo borra
+04:24:36	Eliana Cristaldo:	elimina a pedro
+04:24:42	Agustin Almonacid:	es como tachar los q van pasando
+04:25:15	lucas valdez:	kill pedro
+04:25:25	Juan Pablo Schuk:	respect pedro
+04:25:35	Francisco Danelon:	nono
+04:25:40	Francisco Danelon:	impecable
+04:25:55	Thomas Viceconte:	porque indexOf??
+04:26:14	[Tutor]Marco Serlik:	Ojo que con esta estructura podrían eliminar un producto de un carrito si es que están construyendo un E-commerce como proyecto final.
+04:26:38	Thomas Viceconte:	ahhhhh
+04:26:47	Thomas Viceconte:	biennn buenisimo
+04:26:48	Thomas Viceconte:	graciasss
+04:27:55	Agustin Almonacid:	tremendo
+04:28:09	Joaquin Fernandez:	fuaaaa
+04:28:15	jorgeapaza:	de la lista de invitados, para que no entre otro jorge
+04:28:27	Agustin Almonacid:	hay como guardarlos nombres q fueron eliminando
+04:28:35	jorgeapaza:	entra y se elimina el nombre
+04:33:04	Valentín Zanardo Malvicino:	con los constructores es más rápido no?
+04:33:12	David Niz:	adners
+04:33:17	David Niz:	sandres
+04:33:36	David Niz:	aah ok
+04:34:16	David Niz:	se suele meter arrays dentro de objetos?
+04:39:04	Alexis Graff:	es un constructor para agregar productos
+04:39:08	Alexis Graff:	y le suma iva a los productos?
+04:39:09	Agustin Almonacid:	le agrega un iva de acuerdo al precio del producto
+04:39:24	Alexis Graff:	un return this precio le falta
+04:39:45	Alexis Graff:	si
+04:40:15	Valentín Zanardo Malvicino:	this.precio *= 1,21
+04:42:28	Juan Pablo Schuk:	yo tengo un negocio de sanitarios  y redes de agua y estoy haciendo de eso
+04:45:02	Santiago Morera:	yo soy
+04:45:13	Francisco Danelon:	profe, cualquier cosa te puedo escribir por la plataforma?
+04:45:42	Francisco Danelon:	ok dale tranqui
+04:47:16	Santiago Morera:	puede mandar el link del repo de nuevo por aca ? porfavor
+04:47:58	Carolina Vanesa Lemes Quispe:	https://github.com/andresf2448/Coder-37460
+04:47:59	Santiago Morera:	ya lo veo
+04:48:01	Santiago Morera:	gracias
+04:49:01	Valentín Zanardo Malvicino:	yo intente algo pero se rompe cuando lo quiero mostrar
+04:57:16	Alexis Graff:	return
+04:59:24	David Niz:	gracias profe
+04:59:39	Ángel López De León:	genial la clase, muchas gracias!
+04:59:40	jorgeapaza:	listo profe
+04:59:41	Luciana Rupallan:	Muy buena clase, gracias!
+04:59:42	Sebastian Checcori Vega:	gracias
+04:59:45	jorgeapaza:	no vems

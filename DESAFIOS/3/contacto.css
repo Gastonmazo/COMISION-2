@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 100;
+}
+
+/*nav*/
+
+nav {
+    background-color: black;
+    width: 100%;
+}
+
+nav ul {
+    display: flex;
+    justify-content: right;
+    padding-right: 50px;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+nav ul li:hover a {
+    color: rgba(255, 255, 255, 0.76);
+}
+
+nav ul li ul {
+    display: none;
+    position: absolute;
+}
+
+nav ul li:hover ul {
+    display: block;
+    background-color: rgba(0, 0, 0, 0.904);
+    font-size: 10px;
+    left: 0;
+}
+
+/* FORMULARIO */
+
+h2{
+    margin: 60px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.flex-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.788);
+    padding: 20px;
+    margin: 50px;
+}
+
+.form{
+    min-width: 400px;
+    text-align: center;
+    padding: 40px;
+}
+
+.form-section{
+    padding: 7px;
+}
+
+.form-input{
+    width: 100%;
+    padding: 10px;
+    margin: 1px 0;
+    border: none;
+    border-bottom: 5px solid rgb(0, 0, 0);
+}
+
+.form textarea {
+    min-height: 120px;
+    width: 100%;
+    padding: 10px;
+    resize: none;
+}
+
+.form input[type="submit"]{
+    background: black;
+    color: white;
+    width: 200px;
+}
+
+
+.form-img img{
+    width: 480px;
+}
+
+
+
+
+/*Footer*/
+
+.footer_container{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    width: 100%;
+    padding: 20px;
+}
+
+.footer_section{
+    display: flex;
+    padding: 20px;
+    color: white;
+    flex-direction: column;
+}
+
+.footer_section h3 {
+    text-align: center;
+}
+
+.footer_section_link{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+}
+
+.footer_section_link a{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.medios_pago{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
+
+.medios_pago h3 {
+    color: white;
+    padding-left: 700px;
+}
+
+.medios_pago ul{
+    display: flex;
+    padding-top: 50px;
+    padding-left: -20px;
+}
+
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+} 
